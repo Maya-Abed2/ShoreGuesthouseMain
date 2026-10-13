@@ -1,16 +1,36 @@
-# React + Vite
+# 🌊 Shore Guesthouse - Hospitality Showcase Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. hi
+A modern, elegant, and fully responsive showcase website built for **Shore Guesthouse** to highlight property features, amenities, gallery collections, and direct booking inquiries.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** (https://maya-abed2.github.io/ShoreGuesthouseMain/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 About The Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Shore Guesthouse Main** is a web interface tailored for the hospitality sector. It focuses on visual storytelling, seamless navigation, and intuitive user engagement to present rental spaces and guest experiences effectively.
 
-## Expanding the ESLint configuration
+### Key Features
+* 📱 **Responsive & Mobile-First Design:** Adapted for desktop monitors, tablets, and smartphones.
+* 🏞️ **Interactive Media Galleries:** High-resolution photo sliders and visual components for showcasing rooms and facilities.
+* 🧩 **Modern Navigation & Dropdowns:** Smooth menu interactions for quick access to key sections.
+* ⚡ **Performance Optimized:** Fast loading speed and clean asset management.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend Framework:** React.js
+* **Styling & Components:** Tailwind CSS / Material UI
+* **Sliders & Motion:** Swiper.js
+* **Deployment:** GitHub Pages
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/maya-abed2/ShoreGuesthouseMain.git](https://github.com/maya-abed2/ShoreGuesthouseMain.git)
